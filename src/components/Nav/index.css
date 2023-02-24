@@ -1,0 +1,39 @@
+.navitems-container {
+  display: flex;
+  align-self: center;
+  height: 70px;
+  width: 75vw;
+
+  padding: 10px;
+  justify-content: space-evenly;
+  padding-left: 25px;
+  overflow-y: scroll;
+}
+.nav-item {
+  list-style-type: none;
+  height: 70px;
+  width: 70px;
+  margin-right: 15px;
+  font-family: Roboto;
+  font-weight: 600;
+  margin-left: 10px;
+  margin-right: 10px;
+  flex-wrap: nowrap;
+}
+.nav-item-selected {
+  list-style-type: none;
+  height: 70px;
+  width: 70px;
+  margin-right: 15px;
+  font-family: Roboto;
+  font-weight: 600;
+  margin-left: 10px;
+  text-decoration: underline;
+  margin-right: 10px;
+  flex-wrap: nowrap;
+}
+.nav-icon {
+  height: 45px;
+  width: 45px;
+  color: #aaa9ad;
+}
