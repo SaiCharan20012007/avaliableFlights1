@@ -487,7 +487,7 @@ class Home extends Component {
         <Header />
         <Nav />
 
-        <h1 className="flight-page-title">🤫 Lowest Price's Here 😉 🚀</h1>
+        <h1 className="flight-page-title"> &#128516; Lowest Prices Here &#128640 </h1>
         <div className="buttons-container">
           <button className="button-1" type="button">
             One Way
